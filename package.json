@@ -1,7 +1,7 @@
 {
           "name": "rdx-bot",
           "version": "10.1.1",
-          "description": "A simple Facebook Messenger Bot made by RDX",
+          "description": "A simple Facebook Messenger Bot made by Aman Khan",
           "main": "RDX.js",
           "engines": {
                     "node": "20.x",
@@ -14,12 +14,12 @@
           },
           "repository": {
                     "type": "git",
-                    "url": "https://github.com/rdx/rdx-bot/issues"
+                    "url": "https://github.com/aman/aman-bot/issues"
           },
           "keywords": [
                     "bot",
                     "facebook",
-                    "rdx",
+                    "aman",
                     "messenger",
                     "javascript",
                     "rdx-bot"
@@ -27,9 +27,9 @@
           "author": "RDX",
           "license": "GPL-3.0",
           "bugs": {
-                    "url": "https://github.com/rdx/rdx-bot/issues"
+                    "url": "https://github.com/aman/aman-bot/issues"
           },
-          "homepage": "https://github.com/rdx/rdx-bot/issues",
+          "homepage": "https://github.com/rdx/aman-bot/issues",
           "dependencies": {
                     "axios": "^1.7.2",
                     "body-parser": "^1.20.0",
